@@ -1,4 +1,4 @@
-const accessKey = "OhCUiIEWGgNGgnj6lQYsQ2RmXi5A_TwzotfEGogRJHk";
+const accessKey = "image Key";
 
 const searchForm = document.getElementById("search-form");
 const searchBox = document.getElementById("search-box");
